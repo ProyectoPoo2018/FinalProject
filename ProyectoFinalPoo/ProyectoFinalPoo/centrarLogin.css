@@ -1,0 +1,35 @@
+﻿.centrarswf {
+    position: absolute;
+    top: 46%;
+    left:46%;
+    margin-top: -100px; /*La mitad de la altura del flash*/
+    margin-left: -250px;
+    width: 533px;
+}
+/*La mitad del ancho del flash*/
+
+
+.colorText {
+    color: purple;
+   /*  background-color: #d8da3d*/
+}
+
+.colorFondo {
+   /* color: purple;*/
+    background-color: #00FFFF
+}
+
+.colorButon {
+    /* color: purple;*/
+    background-color: #800080
+}
+
+.Imagenfon {
+    background-image: url("Imagenes/mdn_logo_only_color.png")
+}
+.Imagenbtn {
+    color: black;
+    background-image: url("Imagenes/Button_purple.jpg")
+}
+
+

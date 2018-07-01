@@ -1,0 +1,15 @@
+﻿.Color1 {
+    background-color: yellow;
+}
+.Color2 {
+    background-color: blueviolet;
+}
+.color3 {
+    background-color: aquamarine;
+    position: absolute;
+    top: 46%;
+    left: 46%;
+    margin-top: -100px; /*La mitad de la altura del flash*/
+    margin-left: -250px;
+    width: 533px;
+}
